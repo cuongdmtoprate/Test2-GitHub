@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  LocaliOS
+
+  Created by ManhCuong on 9/18/19.
+  Copyright © 2019 encodejsc. All rights reserved.
+*/
+"keyLable" = "Đa Ngôn Ngữ";
+"keyBltEng" = "Tiếng Anh";
+"keyBltViet" = "Tiếng Việt";
